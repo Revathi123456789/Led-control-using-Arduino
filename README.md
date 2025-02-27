@@ -1,4 +1,6 @@
-# Led-control-using-Arduino
+## NAME: REVATHI K
+## REG NO: 212233040169
+## EX 01 Led control using Arduino
 
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
@@ -58,9 +60,20 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![Screenshot 2025-02-27 195236](https://github.com/user-attachments/assets/97b393d2-1321-4161-a2f7-8d261e371b7b)
+
 
 ## PROGRAM
 
+![Screenshot 2025-02-27 184158](https://github.com/user-attachments/assets/3cc8fd0c-0a9d-4a89-85db-15609755a71b)
+
 ## OUTPUT
+## PUSH BUTTON ON
+
+![Screenshot 2025-02-27 195102](https://github.com/user-attachments/assets/d66b5fe0-8d46-4af8-9b75-dce4901f4091)
+## PUSH BUTTON OFF
+
+
+![Screenshot 2025-02-27 184139](https://github.com/user-attachments/assets/0b087144-2099-4991-b1dc-0c3f0829f6b9)
 
 ## RESULT
