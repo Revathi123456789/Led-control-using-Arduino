@@ -77,3 +77,6 @@ Weighing Machines </br>
 ![Screenshot 2025-02-27 184139](https://github.com/user-attachments/assets/0b087144-2099-4991-b1dc-0c3f0829f6b9)
 
 ## RESULT
+Thus designed and implemented a system for LED control using an Arduino microcontroller and a push button.
+
+
