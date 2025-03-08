@@ -62,8 +62,9 @@ Weighing Machines </br>
 # CIRCUIT DIAGRAM
 ![Screenshot 2025-02-27 195236](https://github.com/user-attachments/assets/97b393d2-1321-4161-a2f7-8d261e371b7b)
 # PROGRAM
-![Screenshot 2025-02-27 184158](https://github.com/user-attachments/assets/3cc8fd0c-0a9d-4a89-85db-15609755a71b)
-## OUTPUT
+<img width="254" alt="image" src="https://github.com/user-attachments/assets/cb774a30-fd0d-44c1-9276-eac559f35afe" />
+
+# OUTPUT
 # PUSH BUTTON ON
 ![Screenshot 2025-02-27 195102](https://github.com/user-attachments/assets/d66b5fe0-8d46-4af8-9b75-dce4901f4091)
 # PUSH BUTTON OFF
