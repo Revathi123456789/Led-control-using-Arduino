@@ -1,5 +1,5 @@
-# NAME: REVATHI K
-# REG NO: 212223040169
+## NAME: REVATHI K
+## REG NO: 212223040169
 # EX 01 Led control using Arduino
 
 # AIM
